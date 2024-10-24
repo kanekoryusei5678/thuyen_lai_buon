@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         a-n-i-m-a-t-e-b-o-o-k-s-t-o-r-e
 // @namespace    https://github.com/kanekoryusei5678/thuyen_lai_buon/raw/main/a-n-i-m-a-t-e-b-o-o-k-s-t-o-r-e.user.js
-// @version      2024.10.24.1
+// @version      2024.10.24.2
 // @description  down a-n-i-m-a-t-e-b-o-o-k-s-t-o-r-e
 // @author       You
 // @include      /^https:\/\/www\.[a@]nim[a@]teb[o0]okst[o0]re\.c[o0]m\/viewer\/.+/
